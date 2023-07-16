@@ -6,9 +6,9 @@ En este proyecto se utilizó HTML y CSS para construir la clonación de la inter
 ## Objetivo del proyecto✨
 Aprender a utilizar los elementos de HTML5 y propiedades de de CSS; así como identificar componentes base de un sitio web, para analizarlas y replicarlas 
 ## ¿Por qué se utilizó HTLM?🤨
-Se utilizo HTML5 con el objetivo de lograr identificar los componentes que debpia llevar el clon de Google.
+Se utilizó HTML5 con el objetivo de lograr identificar los componentes que debía llevar el clon de Google.
 ## ¿Por qué se utilizó CSS?🤔
-Se ulilizó CSS3 para lograr dar el mismo estilo de GOOGLE a nuestro con de Google.
+Se utilizó CSS3 para lograr dar el mismo estilo de GOOGLE a nuestro con de Google.
 ## ¿Qué construí?🪄
 El proyecto esta enfocado en la construcción de la interfaz de Google tomando especial atención a su interfaz de usuario y experiencia del mismo para la replica el comportamiento y estilo al 100%.
 ## ¿Comó esta dividido el proyecto?👌
